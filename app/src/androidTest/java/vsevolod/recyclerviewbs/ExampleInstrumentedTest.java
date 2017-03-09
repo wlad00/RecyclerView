@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 
 /**
  * Instrumentation test, which will execute on an Android device.
- * avatar superpuperfeature
+ * avatar superpuperfeature forPush(not commited yet)
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
 @RunWith(AndroidJUnit4.class)
